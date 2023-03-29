@@ -17,9 +17,7 @@ public class Main {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		System.out.println(fibonacci.hacerSerie());
-		System.out.println(splitter.fibonacciPares());
-		System.out.println(splitter.fibonacciImpares());
+	
 	}
 	
 }
